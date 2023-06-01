@@ -1,12 +1,10 @@
-package Module 1.page 2;
-
 import java.io.*;
 import java.util.*;
 import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class Helloworldpattern {
+public class Hellopattern {
 
     public static void main(String[] args) {
         System.out.println("Hello");
