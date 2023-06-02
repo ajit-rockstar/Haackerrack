@@ -11,7 +11,7 @@ public class Highsumorlowsum {
         Scanner sc= new Scanner(System.in);
         int x= sc.nextInt();
         int y= sc.nextInt();
-        int sum=x+y;
+        int sum=x+y; 
         if(sum>=100){
             System.out.println("High Sum");
         }
